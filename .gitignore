@@ -37,3 +37,11 @@ User Data/
 # Temp files
 *.tmp
 *.temp
+
+node_modules/
+build/
+.docusaurus/
+.DS_Store
+.env
+*.log
+AppData/
